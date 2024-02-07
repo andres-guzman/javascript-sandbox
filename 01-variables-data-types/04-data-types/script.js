@@ -22,7 +22,6 @@ const id = Symbol('id');
 const n = 9007199254740991n;
 
 // Reference Types
-
 const numbers = [1, 2, 3, 4];
 
 const person = {

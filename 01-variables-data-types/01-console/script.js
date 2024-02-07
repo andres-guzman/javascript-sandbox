@@ -28,3 +28,10 @@ console.groupEnd();
 // Add CSS to logs
 const styles = 'padding: 10px; background-color: white; color: green';
 console.log('%cHello World', styles);
+
+
+// added by Andy
+console.log(12, "string", false);
+console.error("WTF!");
+console.warn("Don't be an idiot");
+console.table({name: "Andres", age: 32});
